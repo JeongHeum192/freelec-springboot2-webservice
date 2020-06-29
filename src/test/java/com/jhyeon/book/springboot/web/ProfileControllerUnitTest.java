@@ -1,8 +1,6 @@
 package com.jhyeon.book.springboot.web;
 
-import com.jhyeon.book.springboot.web.dto.ProfileController;
 import org.junit.Test;
-import org.mockito.Mock;
 import org.springframework.mock.env.MockEnvironment;
 import static org.assertj.core.api.Assertions.assertThat;
 
